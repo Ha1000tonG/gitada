@@ -8,3 +8,4 @@
 * Uso do comando "Restore"
 
 #### Comando git bush "subir as modificações para o GitHub"
+#### Comando git pull "enviar as modificações para o repositório local"
