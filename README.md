@@ -6,3 +6,5 @@
 
 
 * Uso do comando "Restore"
+
+#### Comando git bush "subir as modificações para o GitHub"
